@@ -1,0 +1,7 @@
+aiogram>=3.4
+sqlalchemy>=2.0
+asyncpg
+aiohttp
+python-dotenv
+aiosqlite
+tzdata

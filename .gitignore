@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+.venv/
+.venv.venv/
+venv/
+env/
+
+# Local env files
+.env
+
+# IDE
+.idea/
+.vscode/
+
+# DB
+*.db
+*.sqlite3
+
+# Logs
+*.log
+
+# Misc
+requirements_export.txt
